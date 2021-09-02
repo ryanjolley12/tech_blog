@@ -1,22 +1,8 @@
 {
-  "name": "tech_blog_db",
+  "name": "tech_blog",
   "version": "1.0.0",
   "description": "## Description A CMS-style blog site where developers can publish their blog posts and comment on other posts.",
   "main": "server.js",
-  "scripts": {
-    "test": "jest",
-    "start": "node server.js",
-    "seeds": "node seeds/index.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ryanjolley12/tech_blog.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ryanjolley12/tech_blog/issues"
-  },
   "dependencies": {
     "bcrypt": "^5.0.1",
     "connect-session-sequelize": "^7.1.1",
@@ -29,6 +15,19 @@
     "mysql2": "^2.3.0",
     "sequelize": "^6.6.5"
   },
-  "homepage": "https://github.com/ryanjolley12/tech_blog#readme",
-  "devDependencies": {}
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanjolley12/tech_blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanjolley12/tech_blog/issues"
+  },
+  "homepage": "https://github.com/ryanjolley12/tech_blog#readme"
 }
