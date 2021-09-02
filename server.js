@@ -1,3 +1,5 @@
+// SPENCER HELPED ME WITH THIS CODE. PLEASE CREDIT HIM, I STRUGGLED A LOT WITH THIS ASSIGNMENT
+
 const path = require('path');
 const express = require('express');
 const session = require('express-session');
