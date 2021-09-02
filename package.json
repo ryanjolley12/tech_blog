@@ -28,5 +28,7 @@
     "jest": "^27.1.0",
     "mysql2": "^2.3.0",
     "sequelize": "^6.6.5"
-  }
+  },
+  "homepage": "https://github.com/ryanjolley12/tech_blog#readme",
+  "devDependencies": {}
 }
