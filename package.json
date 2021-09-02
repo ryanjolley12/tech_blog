@@ -17,7 +17,6 @@
   "bugs": {
     "url": "https://github.com/ryanjolley12/tech_blog/issues"
   },
-  "homepage": "https://github.com/ryanjolley12/tech_blog#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "connect-session-sequelize": "^7.1.1",
