@@ -1,5 +1,5 @@
 {
-  "name": "tech_blog",
+  "name": "tech_blog_db",
   "version": "1.0.0",
   "description": "## Description A CMS-style blog site where developers can publish their blog posts and comment on other posts.",
   "main": "server.js",
